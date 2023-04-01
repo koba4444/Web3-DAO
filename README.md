@@ -4,7 +4,13 @@ DAO for crowd investing in NFTs
 Pet-project: investing in NFT. Owners of KOKArts NFTs propose and vote for and against buying different NFTs. If majority of the voters vote for the proposal by the deadline, the NFT purchase is automatically executed.
 
 
+
+PREREQUIZITS:
+Pet-project for applyinginto web3 whitelist here:  https://web3-dapp-whitelist-u8q6.vercel.app/
 Pet-project for minting coins KOKT to addresses previously bought KokArtsNFT here: https://web3-nft-collection-rho.vercel.app/
+
+
+
 Deployed to https://web3-ico-coral.vercel.app/
 
 NFT contract address 0x45A8f978962d3FD5e03D28d74f1A3EEa0Cf49568
