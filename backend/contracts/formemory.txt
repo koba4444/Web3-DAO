@@ -1,0 +1,2 @@
+FakeNFTMarketplace deployed to:  0x59Fba0aE558c8685D9d970B23cea77614d1CC362
+KokArtsDAO deployed to:  0xc9d0d70d0A2Adb0dbC0eb8Cd5DF292285Edb37df
