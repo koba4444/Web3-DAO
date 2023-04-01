@@ -11,10 +11,7 @@ Pet-project for minting coins KOKT to addresses previously bought KokArtsNFT her
 
 
 
-Deployed to https://web3-ico-coral.vercel.app/
+Deployed to https://web3-dao-koba4444.vercel.app/
 
-NFT contract address 0x45A8f978962d3FD5e03D28d74f1A3EEa0Cf49568
-
-Testnet sepolia
-
-TOKEN_CONTRACT_ADDRESS = "0x169Ef00627bAcba2872D16028c65B9559BE47170"
+FakeNFTMarketplace deployed to:  0x59Fba0aE558c8685D9d970B23cea77614d1CC362
+KokArtsDAO deployed to:  0xc9d0d70d0A2Adb0dbC0eb8Cd5DF292285Edb37df
